@@ -8,7 +8,7 @@
     -使用终端进入项目所在目录
     -npm start
 ##效果预览
-![image](http://lovefoods.top/static/images/moviecat/001.png)
-![image](http://lovefoods.top/static/images/moviecat/002.png)
-![image](http://lovefoods.top/static/images/moviecat/003.png)
-![image](http://lovefoods.top/static/images/moviecat/004.png)
+![image](https://github.com/guoshiqiufeng/lovefood/blob/master/moviecat/001.png)
+![image](https://github.com/guoshiqiufeng/lovefood/blob/master/moviecat/002.png)
+![image](https://github.com/guoshiqiufeng/lovefood/blob/master/moviecat/003.png)
+![image](https://github.com/guoshiqiufeng/lovefood/blob/master/moviecat/004.png)
